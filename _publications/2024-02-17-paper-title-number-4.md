@@ -7,9 +7,7 @@ excerpt: ''
 date: 2025-09-11
 venue: 'IEEE International Joint Conference on Biometrics (IJCB)'
 paperurl: 'https://arxiv.org/abs/2509.16623'
-citation: '
-Zhou J, Xiong H, Lu J, et al. CGTGait: Collaborative Graph and Transformer for Gait Emotion Recognition[J]. arXiv preprint arXiv:2509.16623, 2025.
-'
+citation: 'Zhou J, Xiong H, Lu J, et al. CGTGait: Collaborative Graph and Transformer for Gait Emotion Recognition[J]. arXiv preprint arXiv:2509.16623, 2025.'
 ---
 
 Skeleton-based gait emotion recognition has received significant attention due to its wide-ranging applications. However, existing methods primarily focus on extracting spatial and local temporal motion information, failing to capture long-range temporal representations. In this paper, we propose \textbf{CGTGait}, a novel framework that collaboratively integrates graph convolution and transformers to extract discriminative spatiotemporal features for gait emotion recognition. Specifically, CGTGait consists of multiple CGT blocks, where each block employs graph convolution to capture frame-level spatial topology and the transformer to model global temporal dependencies. Additionally, we introduce a Bidirectional Cross-Stream Fusion (BCSF) module to effectively aggregate posture and motion spatiotemporal features, facilitating the exchange of complementary information between the two streams. We evaluate our method on two widely used datasets, Emotion-Gait and ELMD, demonstrating that our CGTGait achieves state-of-the-art or at least competitive performance while reducing computational complexity by approximately \textbf{82.2\%} (only requiring 0.34G FLOPs) during testing.
