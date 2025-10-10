@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm an undergraduate student from [Wuhan University of Technology](https://www.whut.edu.cn/). My research interest includes computer vision, gait recognition and so on.
+I'm now pursuing my master's degree at [Huazhong University of Science and Technology](https://www.hust.edu.cn/). My research interest includes computer vision, gait recognition and so on.
