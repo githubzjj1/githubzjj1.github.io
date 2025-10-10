@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
-date: 2024-02-17
+date: 2025-09-11
 venue: 'IEEE International Joint Conference on Biometrics (IJCB)'
 paperurl: 'https://arxiv.org/abs/2509.16623'
 citation: '
