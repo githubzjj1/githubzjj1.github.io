@@ -11,5 +11,5 @@ redirect_from:
 
 Education
 ======
-* B.S. in Wuhan, Wuhan University of Technology, 2025
-
+* B.S. in Information Engineering | Wuhan University of Technology | Wuhan | 2025
+* M.S. in Computer Vision | Huazhong University of Science and Technology | Wuhan | Expected 2028
