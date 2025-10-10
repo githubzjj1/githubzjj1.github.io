@@ -8,12 +8,7 @@ date: 2025-09-11
 venue: 'IEEE International Joint Conference on Biometrics (IJCB)'
 paperurl: 'https://arxiv.org/abs/2509.16623'
 citation: '
-@article{zhou2025cgtgait,
-  title={CGTGait: Collaborative Graph and Transformer for Gait Emotion Recognition},
-  author={Zhou, Junjie and Xiong, Haijun and Lu, Junhao and Lin, Ziyu and Feng, Bin},
-  journal={arXiv preprint arXiv:2509.16623},
-  year={2025}
-}
+Zhou J, Xiong H, Lu J, et al. CGTGait: Collaborative Graph and Transformer for Gait Emotion Recognition[J]. arXiv preprint arXiv:2509.16623, 2025.
 '
 ---
 
